@@ -1,16 +1,18 @@
-### Hi there 👋
+### Nathan Renfroe
 
-<!--
-**nathanrenfroe/nathanrenfroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trying to create real stuff with code.
 
-Here are some ideas to get you started:
+Dev @ Organizations
+- [@TheSunShining](https://github.com/the-sunshining) Github
+- [@SunBible](https://github.com/SunBible-dev) Github
+- [@Sleet](https://gitlab.com/sleet-dev) Gitlab
+- [Sun Electron](https://github.com/sun-electron) My Electron Desktop app playground
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+For hire!
+
+
+Email:
+- sleetdesign.nft@ud.me
+- nathanrenfroe.x@ud.me
